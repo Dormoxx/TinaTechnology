@@ -26,7 +26,10 @@ namespace TinaTechnology
                     numComponents += 10;
             }
             num += componentCurve.Evaluate(numComponents);
-            Log.Message("Tina Technology calculates threat points should be " + wealthCurve.Evaluate(num) + " based on " + ResearchToWealthApparentCost() + " research and " + numComponents + " component-based buildings");
+            #if DEBUG
+                Log.Message("Tina Technology calculates threat points should be " + wealthCurve.Evaluate(num) + " based on " + 
+                    ResearchToWealthApparentCost() + " research and " + numComponents + " component-based buildings");
+            #endif
             __result = wealthCurve.Evaluate(num);
         }
 

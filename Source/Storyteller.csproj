@@ -53,11 +53,8 @@
         <Link>About.xml</Link>
       </None>
       <None Include="..\1.4\Defs\Storyteller\Storytellers.xml">
-        <Link>Defs\Storytellers.xml</Link>
+        <Link>Storyteller\Storytellers.xml</Link>
       </None>
-    </ItemGroup>
-    <ItemGroup>
-      <Folder Include="Defs\" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
