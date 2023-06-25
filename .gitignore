@@ -1,3 +1,5 @@
 Source/bin/*
 Source/obj/*
 Source/.vs/
+Harmony/*
+*.pdb
