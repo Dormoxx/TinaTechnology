@@ -3,3 +3,6 @@ Source/obj/*
 Source/.vs/
 Harmony/*
 *.pdb
+*.dds
+
+Harmony

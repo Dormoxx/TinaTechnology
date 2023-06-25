@@ -3,7 +3,7 @@
   <StorytellerDef ParentName="BaseStoryteller">
     <defName>Tina</defName>
     <label>Tina Technology</label>
-    <description>TODO</description>
+    <description>Tina cares not for glittering gold or sparkling silver, for she knows that true power comes from technology. Instead of wealth, Tina tallies the total amount of research completed, components and component-based buildings. Always Buy Components? Only if you want to paint a target on your back.\n\nMuch like Randy, Tina generates random events. Although, she doesn't over or under spend nearly as much as Randy when deciding what to send at you.</description>
     <portraitLarge>TinaTechnology</portraitLarge>
     <portraitTiny>TinaTechnologyTiny</portraitTiny>
     <listOrder>69</listOrder>

@@ -3,7 +3,12 @@
     <name>Tina Technology</name>
     <author>Dormoxx</author>
     <packageId>dormoxx.tinatechnology</packageId>
-    <description>Storyteller that cares more about your research level and number of component based buildings.</description>
+    <description>Tina cares not for glittering gold or sparkling silver, for she knows that true power comes from technology. Instead of wealth, Tina tallies the total amount of research completed, components and component-based buildings. Always Buy Components? Only if you want to paint a target on your back.
+    
+    Much like Randy, Tina generates random events. Although, she doesn't over or under spend nearly as much as Randy when deciding what to send at you.
+    
+    Tina Technology is is compatible and intended to be played with Tech Advancing, as that mod adjusts ResearchProjectDef.CostApparent, which this mod reads for the ResearchToWealth conversion.
+    </description>
     <supportedVersions>
         <li>1.4</li>
     </supportedVersions>
